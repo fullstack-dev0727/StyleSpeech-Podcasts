@@ -1,0 +1,5 @@
+torch
+librosa
+pyyaml==5.1.2
+scipy
+argparse
